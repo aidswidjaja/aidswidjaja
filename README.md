@@ -8,5 +8,5 @@
 <div align="center" class="display: inline">
   <h1><code>aidswidjaja</code></h1>
   <a href=""><img width="100%" src="https://raw.githubusercontent.com/aidswidjaja/bgpfp/master/bg/Your%20Name.png"></a>
-  <pre>nachos + penguins + pineapples | discord: aidswidjaja#2805 | reddit: <a href="https://reddit.com/u/airswidjaja">u/airswidjaja</a> | website: <a href="https://aidswidjaja.github.io">aidswidjaja.github.io</a> | gpg: <a href="https://aidswidjaja.github.io/gpg-info.txt">aidswidjaja.github.io/gpg-info.txt</a> | <a href="https://myanimelist.net/profile/aidswidjaja">._.</a></pre>
+  <pre>nachos + penguins + pineapples | discord: aidswidjaja#2805 | reddit: <a href="https://reddit.com/u/airswidjaja">u/airswidjaja</a> | website: <a href="https://aidswidjaja.github.io">aidswidjaja.github.io</a> | <a href="https://myanimelist.net/profile/aidswidjaja">._.</a></pre>
 </div>
