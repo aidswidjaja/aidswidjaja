@@ -8,6 +8,6 @@
 <div align="center" class="display: inline">
   <h1><code>aidswidjaja</code></h1>
   <a href=""><img width="100%" src="https://github.com/aidswidjaja/aidswidjaja/blob/master/yourname-1080p.jpg?raw=true"></a>
-  <pre>nachos + penguins + pineapples | discord: aidswidjaja#2805 | reddit: <a href="https://reddit.com/u/airswidjaja">u/airswidjaja</a> | website: <a href="https://aidswidjaja.github.io">aidswidjaja.github.io</a> | <a href="https://myanimelist.net/profile/aidswidjaja">._.</a></pre>
+  <pre>nachos + penguins + pineapples | my net habitat @ <a href="https://adrian.id.au">adrian.id.au</a> | <a href="https://myanimelist.net/profile/aidswidjaja">._.</a></pre>
   <strong>« regular programming has been interrupted by the <a href="https://educationstandards.nsw.edu.au/wps/portal/nesa/11-12/hsc/about-HSC">hsc</a> and will resume november 2022 »</strong>
 </div>
