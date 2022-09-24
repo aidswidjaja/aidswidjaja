@@ -7,7 +7,7 @@
 <center>
 <div align="center" class="display: inline">
   <h1><code>aidswidjaja</code></h1>
-  <h3>I'll be gone for a bit due to my final exams. <a href="https://io.adrian.id.au/brb">More info here.</a></h3>
+  <h3>I'll be gone for a bit due to my final exams. <a href="https://io.adrian.id.au/hsc">More info here.</a></h3>
   <a href=""><img width="100%" src="https://github.com/aidswidjaja/aidswidjaja/blob/master/yourname-1080p.jpg?raw=true"></a>
   <pre>nachos + penguins + pineapples | my net habitat @ <a href="https://adrian.id.au">adrian.id.au</a> | <a href="https://myanimelist.net/profile/aidswidjaja">._.</a></pre>
   <strong>« regular programming has been interrupted by the <a href="https://educationstandards.nsw.edu.au/wps/portal/nesa/11-12/hsc/about-HSC">hsc</a> and will resume november 2022 »</strong>
