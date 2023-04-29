@@ -48,6 +48,6 @@ But despite all this, I'm doing ok. Uni is going pretty well. I'm doing new thin
 
 <center>
 
-_My activity on GitHub will be significantly reduced from what it used to be. I may never code seriously again, although I find it unlikely that I'll be completely cut off from computing for the rest of my life. Thank you to everyone I've worked with for your support, guidance, encouragement, or just being another person to talk to dumb C headers I can't locate. It's been a pleasure, but this isn't goodbye. It's the start of something new :)_
+_My activity on GitHub will be significantly reduced from what it used to be. I may never code seriously again, although I find it unlikely that I'll be completely cut off from computing for the rest of my life. Thank you to everyone I've worked with for your support, guidance, encouragement, or just being another person to talk about dumb C headers I can't locate. It's been a pleasure, but this isn't goodbye. It's the start of something new :)_
   
 </center>
