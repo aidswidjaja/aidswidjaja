@@ -24,6 +24,8 @@ I'm writing this update on the day that Claude's generalised Riemann hypothesis 
 
 But ultimately I'm glad for everything that happened: from my childhood obsession in computing, to my abandonment of it as I left to pursue new areas in my life. I might still be in the process of figuring things out, but I have begun to appreciate this process more, and I wouldn't have it any other way.
 
+Oh, and I still do game jams.
+
 <div align="center" class="display: inline">
   <pre>nachos + penguins + pineapples | my net habitat @ <a href="https://adrian.id.au">adrian.id.au</a> | <a href="https://myanimelist.net/profile/aidswidjaja">._.</a></pre>
 </div>
